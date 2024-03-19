@@ -36,6 +36,9 @@ body {
 .h2 {
 	background-color: rgb(4, 96, 150);
 }
+.Experience li {
+	font-size: 14px;
+}
 .Skills {
 	font-size: 15px;
 }
