@@ -56,3 +56,6 @@ body {
 .Hobbies {
 	font-size: 13px;
 }
+.Skills li, .Languages li, .Hobbies li {
+	list-style: None
+}
